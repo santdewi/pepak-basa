@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 20, 2021 at 04:42 PM
+-- Generation Time: Oct 21, 2021 at 02:10 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 7.4.23
 
@@ -161,9 +161,7 @@ INSERT INTO `materials` (`id`, `name`, `slug`, `message`, `created_at`, `updated
 (2, 'Krama', 'krama', 'Silahkan masukkan tembung yang akan dicari', NULL, NULL),
 (3, 'Wayang', 'wayang', 'Silahkan masukkan nama wayang yang akan dicari.', NULL, NULL),
 (4, 'Gamelan', 'gamelan', 'Silahkan masukkan nama gaemaln yang akan dicari', NULL, NULL),
-(5, 'Hanacaraka', 'hanacaraka', NULL, NULL, NULL),
-(6, 'Batik', 'batik', 'Read', '2021-10-17 08:57:31', '2021-10-17 08:57:31'),
-(7, 'Pranata acara', 'pranata-acara', 'Silahkan', '2021-10-19 06:06:27', '2021-10-19 06:06:27');
+(5, 'Hanacaraka', 'hanacaraka', NULL, NULL, NULL);
 
 -- --------------------------------------------------------
 
